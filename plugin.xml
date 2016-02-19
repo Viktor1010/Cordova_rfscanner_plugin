@@ -10,7 +10,7 @@
     <license>Apache 2.0</license>
     <keywords>bluetooth, wifi, scandevice</keywords>
 
-    <repo>https://github.com/miraculixx/cordova-rfscanner-plugin.git</repo>
+    <repo>https://github.com/viktor1010/cordova_rfscanner_plugin.git</repo>
 	
     <asset src="www/scandevice.js" target="js/scandevice.js"/>
     
